@@ -1,0 +1,4 @@
+rescue
+evacuation
+relief
+aid
